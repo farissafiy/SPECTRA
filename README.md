@@ -1,4 +1,4 @@
-# Spectra
+# SPECTRA
 
 A modern browser-based audio visualizer built with HTML, CSS, JavaScript, the Web Audio API, and Three.js.
 
