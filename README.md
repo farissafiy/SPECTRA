@@ -63,7 +63,7 @@ Spectra combines music playback, audio processing, customizable themes, RGB ligh
 
 ### Themes
 
-Includes multiple keyboard-inspired and custom themes:
+Includes multiple keyboard-inspired themes:
 
 * 8008
 * Redline
